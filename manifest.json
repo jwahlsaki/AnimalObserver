@@ -1,0 +1,10 @@
+{
+  "Name": "AnimalObserver",
+  "Author": "nofilenamed, saki",
+  "Version": "1.0.4-unofficial.1-saki",
+  "Description": "Visual status and product of your animals.",
+  "UniqueID": "NFN.ANIMOBS",
+  "EntryDll": "AnimalObserver.dll",
+  "MinimumApiVersion": "4.0.4",
+  "UpdateKeys": []
+}
